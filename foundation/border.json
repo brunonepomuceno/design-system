@@ -1,0 +1,92 @@
+{
+  "border": {
+    "semantic": {
+      "width": {
+        "$border-width-none": "0",
+        "$border-width-hairline": "0.5px",
+        "$border-width-thin": "1px",
+        "$border-width-thick": "2px",
+        "$border-width-heavy": "4px"
+      },
+      "radius": {
+        "$border-radius-none": "0",
+        "$border-radius-xs": "2px",
+        "$border-radius-sm": "4px",
+        "$border-radius-md": "8px",
+        "$border-radius-lg": "12px",
+        "$border-radius-xl": "16px",
+        "$border-radius-pill": "9999px",
+        "$border-radius-circular": "50%"
+      },
+      "style": {
+        "$border-style-solid": "solid",
+        "$border-style-dashed": "dashed",
+        "$border-style-dotted": "dotted"
+      },
+      "color": {
+        "$border-color-neutral-default": "#DDDFE4",
+        "$border-color-neutral-subtle": "#BABEC9",
+        "$border-color-neutral-strong": "#636B7E",
+        "$border-color-brand-default": "#E04747",
+        "$border-color-brand-strong": "#B21919",
+        "$border-color-error-default": "#E04747",
+        "$border-color-warning-default": "#F5963D",
+        "$border-color-success-default": "#0AB15F",
+        "$border-color-info-default": "#3C82FF",
+        "$border-color-focus": "#3C82FF"
+      },
+      "preset": {
+        "$border-default": "1px solid #DDDFE4",
+        "$border-subtle": "1px solid #BABEC9",
+        "$border-strong": "1px solid #636B7E",
+        "$border-brand": "1px solid #E04747",
+        "$border-error": "1px solid #E04747",
+        "$border-warning": "1px solid #F5963D",
+        "$border-success": "1px solid #0AB15F",
+        "$border-info": "1px solid #3C82FF",
+        "$border-focus": "2px solid #3C82FF",
+        "$border-input": "1px solid #BABEC9",
+        "$border-input-hover": "1px solid #636B7E",
+        "$border-input-focus": "2px solid #3C82FF",
+        "$border-input-error": "1px solid #E04747"
+      },
+      "component": {
+        "button": {
+          "$border-button-primary": "1px solid #E04747",
+          "$border-button-primary-hover": "1px solid #C93F3F",
+          "$border-button-secondary": "1px solid #DDDFE4",
+          "$border-button-secondary-hover": "1px solid #C8C9CF"
+        },
+        "card": {
+          "$border-card": "1px solid #DDDFE4",
+          "$border-card-hover": "1px solid #BABEC9"
+        },
+        "input": {
+          "$border-input-default": "1px solid #BABEC9",
+          "$border-input-hover": "1px solid #636B7E",
+          "$border-input-focus": "2px solid #3C82FF",
+          "$border-input-error": "1px solid #E04747"
+        },
+        "alert": {
+          "$border-alert-info": "1px solid #EAF6FF",
+          "$border-alert-success": "1px solid #E5FFF3",
+          "$border-alert-warning": "1px solid #FFF8D6",
+          "$border-alert-error": "1px solid #FFF4F4"
+        }
+      }
+    },
+    "mapping": {
+      "stroke-hjh57h5": "$border-strong",
+      "stroke-hjglevs": "$border-subtle",
+      "stroke-hb4fe40": "$border-default",
+      "stroke-hji8ecv": "$border-strong",
+      "stroke-hv3sukv": "$border-default",
+      "stroke-hosggqm": "$border-error",
+      "stroke-hxqsjux": "$border-subtle",
+      "stroke-hq8vbl4": "$border-subtle",
+      "stroke-h9o19nt": "$border-subtle",
+      "stroke-hck2tkh": "$border-error",
+      "stroke-hru2ecd": "$border-error"
+    }
+  }
+}

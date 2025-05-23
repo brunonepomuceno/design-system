@@ -1,0 +1,49 @@
+{
+  "lineHeights": {
+    "semantic": {
+      "display": {
+        "$line-height-display-4xl": "1.1",
+        "$line-height-display-3xl": "1.1",
+        "$line-height-display-2xl": "1.2",
+        "$line-height-display-xl": "1.2",
+        "$line-height-display-lg": "1.4"
+      },
+      "heading": {
+        "$line-height-heading-xl": "1.4",
+        "$line-height-heading-lg": "1.4",
+        "$line-height-heading-md": "1.5",
+        "$line-height-heading-sm": "1.5",
+        "$line-height-heading-xs": "1.5"
+      },
+      "body": {
+        "$line-height-body-lg": "1.5",
+        "$line-height-body-md": "1.5",
+        "$line-height-body-sm": "1.5"
+      },
+      "label": {
+        "$line-height-label-lg": "1.5",
+        "$line-height-label-md": "1.5",
+        "$line-height-label-sm": "1.5"
+      },
+      "button": {
+        "$line-height-button-lg": "1.5",
+        "$line-height-button-md": "1.5",
+        "$line-height-button-sm": "1.5"
+      }
+    },
+    "mapping": {
+      "text-htny7mg": "$line-height-display-3xl",
+      "text-hy427ta": "$line-height-button-sm",
+      "text-hrfs05t": "$line-height-heading-xl",
+      "text-h57yzer": "$line-height-display-3xl",
+      "text-heqpfoy": "$line-height-label-md",
+      "text-hon5svx": "$line-height-display-2xl",
+      "text-h545lie": "$line-height-heading-md",
+      "text-hdxqage": "$line-height-heading-md",
+      "text-hplpj7e": "$line-height-display-lg",
+      "text-huuchpc": "$line-height-display-4xl",
+      "text-hm0mp67": "$line-height-body-lg",
+      "text-h9j2xds": "$line-height-display-xl"
+    }
+  }
+}

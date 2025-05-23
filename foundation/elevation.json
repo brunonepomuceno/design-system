@@ -1,0 +1,64 @@
+{
+  "elevation": {
+    "semantic": {
+      "level": {
+        "$elevation-none": "none",
+        "$elevation-1": "0px 1px 2px 0px rgba(0, 0, 0, 0.05)",
+        "$elevation-2": "0px 1px 3px 0px rgba(0, 0, 0, 0.1), 0px 1px 2px 0px rgba(0, 0, 0, 0.06)",
+        "$elevation-3": "0px 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 2px 4px -2px rgba(0, 0, 0, 0.06)",
+        "$elevation-4": "0px 4px 12px 0px rgba(0, 0, 0, 0.14)",
+        "$elevation-5": "0px 8px 16px -6px rgba(38, 47, 74, 0.08), 0px 6px 8px -6px rgba(38, 47, 74, 0.12)",
+        "$elevation-6": "0px 8px 24px -4px rgba(38, 47, 74, 0.08), 0px 6px 12px -6px rgba(38, 47, 74, 0.12)",
+        "$elevation-7": "0px 10px 32px -4px rgba(24, 38, 47, 0.1), 0px 6px 14px -6px rgba(38, 47, 74, 0.12)",
+        "$elevation-8": "0px 12px 42px -4px rgba(38, 47, 74, 0.12), 0px 8px 18px -6px rgba(38, 47, 74, 0.12)",
+        "$elevation-9": "0px 14px 64px -4px rgba(38, 47, 74, 0.12), 0px 8px 22px -6px rgba(38, 47, 74, 0.12)",
+        "$elevation-10": "0px 18px 88px -4px rgba(38, 47, 74, 0.14), 0px 8px 28px -6px rgba(38, 47, 74, 0.12)"
+      },
+      "component": {
+        "card": {
+          "$elevation-card": "0px 4px 12px 0px rgba(0, 0, 0, 0.14)",
+          "$elevation-card-hover": "0px 8px 16px -6px rgba(38, 47, 74, 0.08), 0px 6px 8px -6px rgba(38, 47, 74, 0.12)",
+          "$elevation-card-active": "0px 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 2px 4px -2px rgba(0, 0, 0, 0.06)"
+        },
+        "modal": {
+          "$elevation-modal": "0px 14px 64px -4px rgba(38, 47, 74, 0.12), 0px 8px 22px -6px rgba(38, 47, 74, 0.12)",
+          "$elevation-modal-overlay": "0px 18px 88px -4px rgba(38, 47, 74, 0.14), 0px 8px 28px -6px rgba(38, 47, 74, 0.12)"
+        },
+        "tooltip": {
+          "$elevation-tooltip": "0px 4px 12px 0px rgba(0, 0, 0, 0.14)",
+          "$elevation-tooltip-arrow": "0px 3px 9px 0px rgba(0, 0, 0, 0.14)"
+        },
+        "dropdown": {
+          "$elevation-dropdown": "0px 8px 16px -6px rgba(38, 47, 74, 0.08), 0px 6px 8px -6px rgba(38, 47, 74, 0.12)",
+          "$elevation-dropdown-hover": "0px 10px 32px -4px rgba(24, 38, 47, 0.1), 0px 6px 14px -6px rgba(38, 47, 74, 0.12)"
+        },
+        "toast": {
+          "$elevation-toast": "0px 12px 42px -4px rgba(38, 47, 74, 0.12), 0px 8px 18px -6px rgba(38, 47, 74, 0.12)"
+        }
+      },
+      "blur": {
+        "$blur-sm": "blur(8px)",
+        "$blur-md": "blur(16px)",
+        "$blur-lg": "blur(24px)",
+        "$blur-xl": "blur(32px)",
+        "$blur-2xl": "blur(40px)"
+      }
+    },
+    "mapping": {
+      "effect-hnpaur6": "$elevation-10",
+      "effect-hx4urf9": "$blur-md",
+      "effect-hguylh0": "$elevation-6",
+      "effect-hlxxpj1": "$elevation-5",
+      "effect-hql2695": "$blur-lg",
+      "effect-hz0aiq1": "$elevation-4",
+      "effect-hmywbfe": "$elevation-card",
+      "effect-hvg7od5": "$elevation-tooltip-arrow",
+      "effect-hwewshe": "$elevation-2",
+      "effect-hbma5ta": "$elevation-3",
+      "effect-hfcnur9": "$elevation-7",
+      "effect-hxik5jz": "$elevation-8",
+      "effect-hthu1bq": "$elevation-9",
+      "effect-hs0vars": "$elevation-10"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "padding": {
+    "semantic": {
+      "scale": {
+        "$padding-xxs": "4px",
+        "$padding-xs": "8px",
+        "$padding-sm": "12px",
+        "$padding-md": "16px",
+        "$padding-lg": "24px",
+        "$padding-xl": "32px",
+        "$padding-xxl": "40px",
+        "$padding-3xl": "48px"
+      },
+      "direction": {
+        "top": {
+          "$padding-top-xxs": "4px",
+          "$padding-top-xs": "8px",
+          "$padding-top-sm": "12px",
+          "$padding-top-md": "16px",
+          "$padding-top-lg": "24px",
+          "$padding-top-xl": "32px"
+        },
+        "right": {
+          "$padding-right-xxs": "4px",
+          "$padding-right-xs": "8px",
+          "$padding-right-sm": "12px",
+          "$padding-right-md": "16px",
+          "$padding-right-lg": "24px",
+          "$padding-right-xl": "32px"
+        },
+        "bottom": {
+          "$padding-bottom-xxs": "4px",
+          "$padding-bottom-xs": "8px",
+          "$padding-bottom-sm": "12px",
+          "$padding-bottom-md": "16px",
+          "$padding-bottom-lg": "24px",
+          "$padding-bottom-xl": "32px"
+        },
+        "left": {
+          "$padding-left-xxs": "4px",
+          "$padding-left-xs": "8px",
+          "$padding-left-sm": "12px",
+          "$padding-left-md": "16px",
+          "$padding-left-lg": "24px",
+          "$padding-left-xl": "32px"
+        }
+      },
+      "component": {
+        "button": {
+          "$padding-button-sm": "8px 16px",
+          "$padding-button-md": "12px 24px",
+          "$padding-button-lg": "16px 32px"
+        },
+        "input": {
+          "$padding-input-sm": "8px 12px",
+          "$padding-input-md": "12px 16px",
+          "$padding-input-lg": "16px 20px"
+        },
+        "card": {
+          "$padding-card-sm": "16px",
+          "$padding-card-md": "24px",
+          "$padding-card-lg": "32px"
+        },
+        "alert": {
+          "$padding-alert": "16px 20px"
+        },
+        "modal": {
+          "$padding-modal": "24px 32px"
+        }
+      },
+      "layout": {
+        "container": {
+          "$padding-container-sm": "16px",
+          "$padding-container-md": "24px",
+          "$padding-container-lg": "32px"
+        },
+        "section": {
+          "$padding-section-sm": "40px 16px",
+          "$padding-section-md": "64px 24px",
+          "$padding-section-lg": "80px 32px"
+        }
+      }
+    },
+    "mapping": {
+      "layout-h2dcbed": "$padding-xs",
+      "layout-hx1x1tf": "$padding-xxl",
+      "layout-hk8v9bl": "$padding-3xl",
+      "layout-hxs1m13": "$padding-sm",
+      "layout-ha5b8xf": "$padding-xxs",
+      "layout-hk30gw7": "$padding-xs",
+      "layout-h5kp7ra": "$padding-xs",
+      "layout-hkefxpo": "$padding-xxs",
+      "layout-h7czjgw": "$padding-sm",
+      "layout-hap59q8": "$padding-xxs",
+      "layout-hmcs8bg": "$padding-xs",
+      "layout-h7ynelv": "$padding-xs",
+      "layout-hlnv8l9": "$padding-sm",
+      "layout-hqali0w": "$padding-xxs",
+      "layout-h4nh69t": "$padding-sm",
+      "layout-he343yf": "$padding-xs",
+      "layout-hokzbo1": "$padding-xxs",
+      "layout-h3sh2ne": "$padding-lg",
+      "layout-hswzinl": "$padding-xs",
+      "layout-hmlrm2p": "$padding-xxs",
+      "layout-heh2k72": "$padding-xs",
+      "layout-hllm5ko": "$padding-xxl",
+      "layout-h4k3fcy": "$padding-xs",
+      "layout-hghzolm": "$padding-xs",
+      "layout-h86ims6": "$padding-md",
+      "layout-hcxf61t": "$padding-lg",
+      "layout-hm3170n": "$padding-md",
+      "layout-hyt24qa": "$padding-xxl"
+    }
+  }
+}

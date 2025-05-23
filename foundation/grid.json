@@ -1,0 +1,129 @@
+{
+  "grid": {
+    "semantic": {
+      "columns": {
+        "$grid-columns-mobile": 4,
+        "$grid-columns-tablet": 8,
+        "$grid-columns-desktop": 12,
+        "$grid-columns-wide": 16
+      },
+      "gutter": {
+        "$grid-gutter-xs": "4px",
+        "$grid-gutter-sm": "8px",
+        "$grid-gutter-md": "16px",
+        "$grid-gutter-lg": "24px",
+        "$grid-gutter-xl": "32px"
+      },
+      "margin": {
+        "$grid-margin-xs": "8px",
+        "$grid-margin-sm": "16px",
+        "$grid-margin-md": "24px",
+        "$grid-margin-lg": "32px",
+        "$grid-margin-xl": "48px"
+      },
+      "breakpoints": {
+        "$breakpoint-xs": "320px",
+        "$breakpoint-sm": "576px",
+        "$breakpoint-md": "768px",
+        "$breakpoint-lg": "992px",
+        "$breakpoint-xl": "1200px",
+        "$breakpoint-xxl": "1440px"
+      },
+      "container": {
+        "$container-sm": "540px",
+        "$container-md": "720px",
+        "$container-lg": "960px",
+        "$container-xl": "1140px",
+        "$container-xxl": "1320px"
+      },
+      "spans": {
+        "mobile": {
+          "$grid-span-1": "span 1 / span 1",
+          "$grid-span-2": "span 2 / span 2",
+          "$grid-span-3": "span 3 / span 3",
+          "$grid-span-4": "span 4 / span 4"
+        },
+        "tablet": {
+          "$grid-span-1": "span 1 / span 1",
+          "$grid-span-2": "span 2 / span 2",
+          "$grid-span-3": "span 3 / span 3",
+          "$grid-span-4": "span 4 / span 4",
+          "$grid-span-5": "span 5 / span 5",
+          "$grid-span-6": "span 6 / span 6",
+          "$grid-span-7": "span 7 / span 7",
+          "$grid-span-8": "span 8 / span 8"
+        },
+        "desktop": {
+          "$grid-span-1": "span 1 / span 1",
+          "$grid-span-2": "span 2 / span 2",
+          "$grid-span-3": "span 3 / span 3",
+          "$grid-span-4": "span 4 / span 4",
+          "$grid-span-5": "span 5 / span 5",
+          "$grid-span-6": "span 6 / span 6",
+          "$grid-span-7": "span 7 / span 7",
+          "$grid-span-8": "span 8 / span 8",
+          "$grid-span-9": "span 9 / span 9",
+          "$grid-span-10": "span 10 / span 10",
+          "$grid-span-11": "span 11 / span 11",
+          "$grid-span-12": "span 12 / span 12"
+        },
+        "wide": {
+          "$grid-span-1": "span 1 / span 1",
+          "$grid-span-2": "span 2 / span 2",
+          "$grid-span-3": "span 3 / span 3",
+          "$grid-span-4": "span 4 / span 4",
+          "$grid-span-5": "span 5 / span 5",
+          "$grid-span-6": "span 6 / span 6",
+          "$grid-span-7": "span 7 / span 7",
+          "$grid-span-8": "span 8 / span 8",
+          "$grid-span-9": "span 9 / span 9",
+          "$grid-span-10": "span 10 / span 10",
+          "$grid-span-11": "span 11 / span 11",
+          "$grid-span-12": "span 12 / span 12",
+          "$grid-span-13": "span 13 / span 13",
+          "$grid-span-14": "span 14 / span 14",
+          "$grid-span-15": "span 15 / span 15",
+          "$grid-span-16": "span 16 / span 16"
+        }
+      },
+      "offsets": {
+        "mobile": {
+          "$grid-offset-1": "1 / span 1",
+          "$grid-offset-2": "2 / span 1",
+          "$grid-offset-3": "3 / span 1"
+        },
+        "tablet": {
+          "$grid-offset-1": "1 / span 1",
+          "$grid-offset-2": "2 / span 1",
+          "$grid-offset-3": "3 / span 1",
+          "$grid-offset-4": "4 / span 1",
+          "$grid-offset-5": "5 / span 1",
+          "$grid-offset-6": "6 / span 1",
+          "$grid-offset-7": "7 / span 1"
+        },
+        "desktop": {
+          "$grid-offset-1": "1 / span 1",
+          "$grid-offset-2": "2 / span 1",
+          "$grid-offset-3": "3 / span 1",
+          "$grid-offset-4": "4 / span 1",
+          "$grid-offset-5": "5 / span 1",
+          "$grid-offset-6": "6 / span 1",
+          "$grid-offset-7": "7 / span 1",
+          "$grid-offset-8": "8 / span 1",
+          "$grid-offset-9": "9 / span 1",
+          "$grid-offset-10": "10 / span 1",
+          "$grid-offset-11": "11 / span 1"
+        }
+      }
+    },
+    "mapping": {
+      "layout-h2dcbed": "$grid-gutter-sm",
+      "layout-hx1x1tf": "$grid-margin-md",
+      "layout-hk8v9bl": "$grid-margin-lg",
+      "layout-hxs1m13": "$grid-gutter-xs",
+      "layout-ha5b8xf": "$grid-gutter-sm",
+      "layout-hk30gw7": "$grid-gutter-md",
+      "layout-h5kp7ra": "$grid-gutter-lg"
+    }
+  }
+}
