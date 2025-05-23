@@ -1,0 +1,92 @@
+{
+  "spacing": {
+    "semantic": {
+      "scale": {
+        "$spacing-xxs": "4px",
+        "$spacing-xs": "8px",
+        "$spacing-sm": "12px",
+        "$spacing-md": "16px",
+        "$spacing-lg": "24px",
+        "$spacing-xl": "32px",
+        "$spacing-xxl": "40px",
+        "$spacing-3xl": "48px",
+        "$spacing-4xl": "56px",
+        "$spacing-5xl": "64px"
+      },
+      "layout": {
+        "$spacing-gutter": "16px",
+        "$spacing-container": "1200px",
+        "$spacing-section": "80px",
+        "$spacing-card": "24px",
+        "$spacing-form": "16px",
+        "$spacing-button": "12px 24px"
+      },
+      "component": {
+        "$spacing-button-padding": "12px 24px",
+        "$spacing-input-padding": "12px 16px",
+        "$spacing-card-padding": "24px",
+        "$spacing-section-padding": "80px 0"
+      },
+      "inset": {
+        "$spacing-inset-xs": "4px",
+        "$spacing-inset-sm": "8px",
+        "$spacing-inset-md": "12px",
+        "$spacing-inset-lg": "16px",
+        "$spacing-inset-xl": "24px"
+      },
+      "stack": {
+        "$spacing-stack-xxs": "4px",
+        "$spacing-stack-xs": "8px",
+        "$spacing-stack-sm": "12px",
+        "$spacing-stack-md": "16px",
+        "$spacing-stack-lg": "24px",
+        "$spacing-stack-xl": "32px",
+        "$spacing-stack-xxl": "40px"
+      },
+      "inline": {
+        "$spacing-inline-xxs": "4px",
+        "$spacing-inline-xs": "8px",
+        "$spacing-inline-sm": "12px",
+        "$spacing-inline-md": "16px",
+        "$spacing-inline-lg": "24px",
+        "$spacing-inline-xl": "32px"
+      },
+      "inset-squish": {
+        "$spacing-inset-squish-xs": "4px 8px",
+        "$spacing-inset-squish-sm": "8px 12px",
+        "$spacing-inset-squish-md": "12px 16px",
+        "$spacing-inset-squish-lg": "16px 24px"
+      }
+    },
+    "mapping": {
+      "layout-h2dcbed": "$spacing-xs",
+      "layout-hx1x1tf": "$spacing-xxl",
+      "layout-hk8v9bl": "$spacing-5xl",
+      "layout-hxs1m13": "$spacing-sm",
+      "layout-ha5b8xf": "$spacing-xxs",
+      "layout-hk30gw7": "$spacing-xs",
+      "layout-h5kp7ra": "$spacing-xs",
+      "layout-hkefxpo": "$spacing-xxs",
+      "layout-h7czjgw": "$spacing-sm",
+      "layout-hap59q8": "$spacing-xxs",
+      "layout-hmcs8bg": "$spacing-xs",
+      "layout-h7ynelv": "$spacing-xs",
+      "layout-hlnv8l9": "$spacing-sm",
+      "layout-hqali0w": "$spacing-xxs",
+      "layout-h4nh69t": "$spacing-sm",
+      "layout-he343yf": "$spacing-xs",
+      "layout-hokzbo1": "$spacing-xxs",
+      "layout-h3sh2ne": "$spacing-lg",
+      "layout-hswzinl": "$spacing-xs",
+      "layout-hmlrm2p": "$spacing-xxs",
+      "layout-heh2k72": "$spacing-xs",
+      "layout-hllm5ko": "$spacing-xxl",
+      "layout-h4k3fcy": "$spacing-xs",
+      "layout-hghzolm": "$spacing-xs",
+      "layout-h86ims6": "$spacing-md",
+      "layout-hcxf61t": "$spacing-lg",
+      "layout-hm3170n": "$spacing-md",
+      "layout-hyt24qa": "$spacing-xxl"
+    }
+  }
+}

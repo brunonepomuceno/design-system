@@ -1,0 +1,2808 @@
+{
+  "colors": {
+    "fill-hgcx9l": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
+    "fill-hu7pl5": {
+      "value": "#111111",
+      "type": "color"
+    },
+    "fill-hx75z0u": {
+      "value": "#636B7E",
+      "type": "color"
+    },
+    "fill-hm1pgj3": {
+      "value": "#BABEC9",
+      "type": "color"
+    },
+    "fill-hhdemzc": {
+      "value": "#DDDFE4",
+      "type": "color"
+    },
+    "fill-hj71jc2": {
+      "value": "#F4F4F5",
+      "type": "color"
+    },
+    "fill-h6qeriv": {
+      "value": "#B21919",
+      "type": "color"
+    },
+    "fill-h5sja8o": {
+      "value": "#E04747",
+      "type": "color"
+    },
+    "fill-h1nahdx": {
+      "value": "#FFD6D6",
+      "type": "color"
+    },
+    "fill-hq9lal": {
+      "value": "#FFF4F4",
+      "type": "color"
+    },
+    "fill-ho0gtgv": {
+      "value": "#1A7B41",
+      "type": "color"
+    },
+    "fill-h50r7s": {
+      "value": "#0AB15F",
+      "type": "color"
+    },
+    "fill-h5bplp0": {
+      "value": "#E5FFF3",
+      "type": "color"
+    },
+    "fill-hh0qlm5": {
+      "value": "#7A5FCD",
+      "type": "color"
+    },
+    "fill-hut4xof": {
+      "value": "#3C82FF",
+      "type": "color"
+    },
+    "fill-hrqmhzo": {
+      "value": "#F5963D",
+      "type": "color"
+    },
+    "fill-h1hiax6": {
+      "value": "#FFDA57",
+      "type": "color"
+    },
+    "fill-hbl6zr5": {
+      "value": "#EDE0FF",
+      "type": "color"
+    },
+    "fill-hvvngyl": {
+      "value": "#EAF6FF",
+      "type": "color"
+    },
+    "fill-h1074gr": {
+      "value": "#FFEAD6",
+      "type": "color"
+    },
+    "fill-ho3net": {
+      "value": "#FFF8D6",
+      "type": "color"
+    },
+    "fill-hkkn0cs": {
+      "value": "#7785FF",
+      "type": "color"
+    },
+    "fill-h27wpkh": {
+      "value": "#E0E4FF",
+      "type": "color"
+    },
+    "fill-hi9oovo": {
+      "value": "#C81D5B",
+      "type": "color"
+    },
+    "fill-hql8f81": {
+      "value": "#DD185F",
+      "type": "color"
+    },
+    "fill-h9qxh25": {
+      "value": "#FF337C",
+      "type": "color"
+    },
+    "stroke-hjh57h5": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "2px"
+    },
+    "fill-hgawv9y": {
+      "value": "#17181C",
+      "type": "color"
+    },
+    "stroke-hjglevs": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "fill-hvt7115": {
+      "value": "#B8B8B8",
+      "type": "color"
+    },
+    "fill-ha7eh46": {
+      "value": "#F2F1F2",
+      "type": "color"
+    },
+    "fill-hguiy7u": {
+      "value": "Image Fill (Ref: 537c24163b97a691d7b6257a2a3d29bea6d521a8)",
+      "type": "image",
+      "imageRef": "537c24163b97a691d7b6257a2a3d29bea6d521a8"
+    },
+    "fill-hz4cqrm": {
+      "value": "#1B1F23",
+      "type": "color"
+    },
+    "stroke-hb4fe40": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1.0350000858306885px"
+    },
+    "stroke-hji8ecv": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "2.070000171661377px"
+    },
+    "stroke-hv3sukv": {
+      "value": "#FFFFFF",
+      "type": "borderColor",
+      "weight": "2.070000171661377px"
+    },
+    "stroke-hosggqm": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "2.070000171661377px"
+    },
+    "fill-hp0lw3s": {
+      "value": "Image Fill (Ref: b4bf1797057668325d75b4de6920beb61169ff63)",
+      "type": "image",
+      "imageRef": "b4bf1797057668325d75b4de6920beb61169ff63"
+    },
+    "stroke-hxqsjux": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "2.070000171661377px"
+    },
+    "stroke-hq8vbl4": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "0.8970000743865967px"
+    },
+    "fill-hojgeo4": {
+      "value": "Image Fill (Ref: fc762927040b933d360fc10e03d1095cfe978b77)",
+      "type": "image",
+      "imageRef": "fc762927040b933d360fc10e03d1095cfe978b77"
+    },
+    "stroke-h9o19nt": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.0350000858306885px"
+    },
+    "stroke-hck2tkh": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "0.8970000743865967px"
+    },
+    "fill-hfkkptz": {
+      "value": "Image Fill (Ref: 7a2f491cfaefcca3f2af583a656687168c8c9133)",
+      "type": "image",
+      "imageRef": "7a2f491cfaefcca3f2af583a656687168c8c9133"
+    },
+    "stroke-hru2ecd": {
+      "value": "#EB4847",
+      "type": "borderColor",
+      "weight": "1.0350000858306885px"
+    },
+    "fill-h8vuzzd": {
+      "value": "#E14747",
+      "type": "color"
+    },
+    "fill-himy9tn": {
+      "value": "{\"type\":\"GRADIENT_LINEAR\",\"gradientHandlePositions\":[{\"x\":0.5,\"y\":-3.0616171314629196e-17},{\"x\":0.5,\"y\":0.9999999999999999},{\"x\":0,\"y\":0}],\"gradientStops\":[{\"position\":0,\"color\":{\"hex\":\"#17181C\",\"opacity\":1}},{\"position\":1,\"color\":{\"hex\":\"#17181C\",\"opacity\":0.2}}]}",
+      "type": "complex_fill"
+    },
+    "fill-hn0rwfo": {
+      "value": "Image Fill (Ref: 12900a2d5834172e7650c383c91cbb42c136da5c)",
+      "type": "image",
+      "imageRef": "12900a2d5834172e7650c383c91cbb42c136da5c"
+    },
+    "fill-h1xe8lb": {
+      "value": "{\"type\":\"GRADIENT_LINEAR\",\"gradientHandlePositions\":[{\"x\":0.5,\"y\":-3.0616171314629196e-17},{\"x\":0.5,\"y\":0.9999999999999999},{\"x\":0,\"y\":0}],\"gradientStops\":[{\"position\":0,\"color\":{\"hex\":\"#17181C\",\"opacity\":1}},{\"position\":1,\"color\":{\"hex\":\"#17181C\",\"opacity\":0}}]}",
+      "type": "complex_fill"
+    },
+    "stroke-ha3417q": {
+      "value": "#3C82FF",
+      "type": "borderColor",
+      "weight": "1.3454999923706055px"
+    },
+    "stroke-hjydx9s": {
+      "value": "#FFFFFF",
+      "type": "borderColor",
+      "weight": "1.3454999923706055px"
+    },
+    "fill-h901gy1": {
+      "value": "#FF4E4C",
+      "type": "color"
+    },
+    "fill-hcnb4d8": {
+      "value": "Image Fill (Ref: 210ea5328a5df8c1a33868891e8f7a74be14b7a7)",
+      "type": "image",
+      "imageRef": "210ea5328a5df8c1a33868891e8f7a74be14b7a7"
+    },
+    "fill-hytod9": {
+      "value": "Image Fill (Ref: 25c74e2373b8b7e22ec170af6bcd842b7c9a3954)",
+      "type": "image",
+      "imageRef": "25c74e2373b8b7e22ec170af6bcd842b7c9a3954"
+    },
+    "fill-hdpdzuu": {
+      "value": "Image Fill (Ref: e96e9bfd87ec72f5bd5808fdbafa6a8ca447a5e4)",
+      "type": "image",
+      "imageRef": "e96e9bfd87ec72f5bd5808fdbafa6a8ca447a5e4"
+    },
+    "fill-h416ryn": {
+      "value": "Image Fill (Ref: 37ddff403592a8751a65bb2e0cf8aa078d1f3b7c)",
+      "type": "image",
+      "imageRef": "37ddff403592a8751a65bb2e0cf8aa078d1f3b7c"
+    },
+    "fill-hnugox3": {
+      "value": "Image Fill (Ref: cc6f9278143fdeeefea3ab75257260bac31a40ee)",
+      "type": "image",
+      "imageRef": "cc6f9278143fdeeefea3ab75257260bac31a40ee"
+    },
+    "fill-hq79idz": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "stroke-h7e6xlr": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "1.0350000858306885px"
+    },
+    "fill-h2c3d8q": {
+      "value": "#C4C4C4",
+      "type": "color"
+    },
+    "stroke-hl8m3qq": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "2.070000171661377px 0px 0px"
+    },
+    "stroke-hk8jy4o": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "1.5525001287460327px"
+    },
+    "fill-hni0ojx": {
+      "value": "#2D2D2D",
+      "type": "color"
+    },
+    "stroke-hbt8mm7": {
+      "value": "#FFFFFF",
+      "type": "borderColor",
+      "weight": "1.0350000858306885px"
+    },
+    "stroke-hq6wtgw": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "fill-hmphj0k": {
+      "value": "rgba(244, 244, 245, 0.8)",
+      "type": "color"
+    },
+    "stroke-hyt9kq7": {
+      "value": "#636B7E",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "stroke-h2groj1": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1px 1px 1px 0px"
+    },
+    "stroke-ho93gzb": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "stroke-hk281zr": {
+      "value": "#0AB15F",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "stroke-hw059qh": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "stroke-hu59r1": {
+      "value": "#3C82FF",
+      "type": "borderColor",
+      "weight": "2px"
+    },
+    "fill-hswjj2o": {
+      "value": "{\"type\":\"GRADIENT_LINEAR\",\"gradientHandlePositions\":[{\"x\":0.5440474831522939,\"y\":0.20484582136613835},{\"x\":0.5309523058051775,\"y\":2.3766522194362327},{\"x\":-0.5418557158827533,\"y\":0.18243135405042546}],\"gradientStops\":[{\"position\":0,\"color\":{\"hex\":\"#3C82FF\",\"opacity\":1}},{\"position\":1,\"color\":{\"hex\":\"#D9D9D9\",\"opacity\":0}}]}",
+      "type": "complex_fill"
+    },
+    "stroke-h7gktph": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "stroke-hc1xuns": {
+      "value": "#FFFFFF",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "fill-h9lyt7q": {
+      "value": "#DADEE6",
+      "type": "color"
+    },
+    "stroke-hfkddst": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "0.5999999642372131px"
+    },
+    "stroke-hd6th0q": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.125px"
+    },
+    "stroke-hjpvufn": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1.3997074365615845px"
+    },
+    "stroke-hk87m45": {
+      "value": "#FFFFFF",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "stroke-hvts2c5": {
+      "value": "#111111",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "stroke-hido8f9": {
+      "value": "#DDDFE4",
+      "type": "borderColor",
+      "weight": "1.3997074365615845px"
+    },
+    "stroke-hqjjzye": {
+      "value": "#E04747",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "stroke-h16vobe": {
+      "value": "#0AB15F",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "stroke-hjr639e": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.5746709108352661px"
+    },
+    "fill-hffcle5": {
+      "value": "Image Fill (Ref: 47cce89ef8dbd34147e40163231f7cecf9f0d326)",
+      "type": "image",
+      "imageRef": "47cce89ef8dbd34147e40163231f7cecf9f0d326"
+    },
+    "fill-hq30gmc": {
+      "value": "Image Fill (Ref: 119220892b81ee377025ab59211167db72051ef5)",
+      "type": "image",
+      "imageRef": "119220892b81ee377025ab59211167db72051ef5"
+    },
+    "stroke-he1oykt": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "fill-hy2ejhy": {
+      "value": "#D9D9D9",
+      "type": "color"
+    },
+    "stroke-hxc3s6k": {
+      "value": "#636B7E",
+      "type": "borderColor",
+      "weight": "1.399885654449463px"
+    },
+    "fill-hrul194": {
+      "value": "#22242A",
+      "type": "color"
+    },
+    "fill-h8wbd8n": {
+      "value": "#D33433",
+      "type": "color"
+    },
+    "fill-h7q7edy": {
+      "value": "#E9E5F5",
+      "type": "color"
+    },
+    "fill-h3laenn": {
+      "value": "#C91D5B",
+      "type": "color"
+    },
+    "fill-hfo0f35": {
+      "value": "#FEEBF2",
+      "type": "color"
+    },
+    "fill-htrhcj2": {
+      "value": "#DC185F",
+      "type": "color"
+    },
+    "fill-howvjn1": {
+      "value": "#E72369",
+      "type": "color"
+    },
+    "fill-hcvfnha": {
+      "value": "rgba(10, 177, 95, 0.5)",
+      "type": "color"
+    },
+    "fill-hfkp4e9": {
+      "value": "#8F8F8F",
+      "type": "color"
+    },
+    "fill-hrezdjw": {
+      "value": "Image Fill (Ref: 2776db26f201a13eaae4d780e01156b5b8cd65a0)",
+      "type": "image",
+      "imageRef": "2776db26f201a13eaae4d780e01156b5b8cd65a0"
+    },
+    "fill-h2srwen": {
+      "value": "#ECECEC",
+      "type": "color"
+    },
+    "fill-h6ibra0": {
+      "value": "#949494",
+      "type": "color"
+    },
+    "fill-h9jr80e": {
+      "value": "#DADADA",
+      "type": "color"
+    },
+    "fill-hirnf0s": {
+      "value": "#989898",
+      "type": "color"
+    },
+    "stroke-hmqzld": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.8857141733169556px"
+    },
+    "stroke-hen8zt7": {
+      "value": "#BABEC9",
+      "type": "borderColor",
+      "weight": "1.8857142925262451px"
+    },
+    "stroke-hjy5mzz": {
+      "value": "#000000",
+      "type": "borderColor",
+      "weight": "2px"
+    },
+    "stroke-hrl05cy": {
+      "value": "#0AB15F",
+      "type": "borderColor",
+      "weight": "3.6666667461395264px"
+    },
+    "fill-hr27pal": {
+      "value": "rgba(10, 177, 95, 0.15)",
+      "type": "color"
+    },
+    "fill-h7skz30": {
+      "value": "Image Fill (Ref: 45daba89d85ce4acdc2891620858f0de0cc2fd9d)",
+      "type": "image",
+      "imageRef": "45daba89d85ce4acdc2891620858f0de0cc2fd9d"
+    },
+    "fill-hlacg7r": {
+      "value": "Image Fill (Ref: ba44048d12b3da05faf6c5d7cc8a87c4523a1266)",
+      "type": "image",
+      "imageRef": "ba44048d12b3da05faf6c5d7cc8a87c4523a1266"
+    },
+    "fill-hl6q1yb": {
+      "value": "Image Fill (Ref: 62c9db87ac9aa2c6754e829c8fef81454a26c5c3)",
+      "type": "image",
+      "imageRef": "62c9db87ac9aa2c6754e829c8fef81454a26c5c3"
+    },
+    "fill-hblh5dr": {
+      "value": "Image Fill (Ref: 62c9db87ac9aa2c6754e829c8fef81454a26c5c3)",
+      "type": "image",
+      "imageRef": "62c9db87ac9aa2c6754e829c8fef81454a26c5c3"
+    },
+    "fill-h280ehu": {
+      "value": "Image Fill (Ref: b41473aa530427debe797d89a0f7dd1affc51dd0)",
+      "type": "image",
+      "imageRef": "b41473aa530427debe797d89a0f7dd1affc51dd0"
+    },
+    "fill-hzhltcx": {
+      "value": "Image Fill (Ref: 01d6e251d3a58f6825a0742631c8ebad569dd1bb)",
+      "type": "image",
+      "imageRef": "01d6e251d3a58f6825a0742631c8ebad569dd1bb"
+    },
+    "fill-hlr2htt": {
+      "value": "#F9FAFB",
+      "type": "color"
+    },
+    "fill-hh7wp1q": {
+      "value": "#DDE1E4",
+      "type": "color"
+    },
+    "fill-hflhuor": {
+      "value": "#3D96FF",
+      "type": "color"
+    },
+    "stroke-hwfv2rn": {
+      "value": "#F4F4F5",
+      "type": "borderColor",
+      "weight": "1px"
+    },
+    "fill-hzmfzj": {
+      "value": "#FFEBEB",
+      "type": "color"
+    },
+    "fill-hcawcq8": {
+      "value": "#AA70FF",
+      "type": "color"
+    },
+    "fill-hv4xoak": {
+      "value": "#262F4A",
+      "type": "color"
+    }
+  },
+  "typography": {
+    "text-htny7mg": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hy427ta": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12,
+        "lineHeight": "1.5em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hrfs05t": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 20,
+        "lineHeight": "1.5em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h57yzer": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hwim78s": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h3yvv8s": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h7axijo": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hytfo9m": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hwvchja": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h2vrpmm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 18.630001068115234,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hmjckxc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14.49000072479248,
+        "lineHeight": "1.4999999670919852em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hyzj3gu": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14.49000072479248,
+        "lineHeight": "1.4999999670919852em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-herle34": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12.420001029968262,
+        "lineHeight": "1.6em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hg3g9gh": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 20.700000762939453,
+        "lineHeight": "1.2999999447145345em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hdosbih": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14.49000072479248,
+        "lineHeight": "1.3200001026730062em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hkipt7q": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.560001373291016,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-heqpfoy": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12.420001029968262,
+        "lineHeight": "1.6em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hqjw8ow": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 29.440004348754883,
+        "lineHeight": "1.100000058308883em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h6vi9te": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14.49000072479248,
+        "lineHeight": "1.4999999670919852em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hhubey3": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14.490001678466797,
+        "lineHeight": "3.4285713157439566em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h15ywpt": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hjfl5ng": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12.420001029968262,
+        "lineHeight": "1.6em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hau5oiq": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14.49000072479248,
+        "lineHeight": "1.4999999670919852em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-heka1x": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12.420001029968262,
+        "lineHeight": "1.3999999232146347em",
+        "letterSpacing": "4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h1i6gwx": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12.420001029968262,
+        "lineHeight": "1.2000000767853654em",
+        "letterSpacing": "4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hxci50c": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hkg5ahk": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hdkypal": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "3.4285714285714284em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hr890f6": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 18,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hipv8mg": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h23a4vz": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h95fxor": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hon5svx": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h7rd9qy": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h5rsk6y": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hfm87ds": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 10,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hnt2ig6": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h6klvyy": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hns2c2o": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 24,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h4ufftt": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h79qpkm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 24,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "BOTTOM"
+      },
+      "type": "typography"
+    },
+    "text-hd6r7o5": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hjgyqhq": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 18,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h2uxd2h": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 10,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hccy3s0": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 10,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hmmno0t": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hqxrrsy": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "BOTTOM"
+      },
+      "type": "typography"
+    },
+    "text-h1vq7ma": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 10,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h545lie": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hz8plql": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h7uwsz4": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 18,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hzhm8kj": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 25.194734573364258,
+        "lineHeight": "1.5000000378521279em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h267e1c": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 19.595905303955078,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hbclg54": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 22.39531898498535,
+        "lineHeight": "1.500000042583645em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hswx7sf": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 33.59297180175781,
+        "lineHeight": "1.2999999091548724em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hmpp5ia": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hvyjhrz": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 13.997074127197266,
+        "lineHeight": "1.6000000272535333em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hgq6oxj": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 44.7906379699707,
+        "lineHeight": "1.299999991483271em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-huqi3ma": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 19.595905303955078,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hpx2qzm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.798627853393555,
+        "lineHeight": "3.3333333333333335em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hdbmapc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 55.98829650878906,
+        "lineHeight": "1.1000000272535333em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "BOTTOM"
+      },
+      "type": "typography"
+    },
+    "text-h1j5omp": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 13.997074127197266,
+        "lineHeight": "1.6000000272535333em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hlldno4": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 55.98829650878906,
+        "lineHeight": "1.1000000272535333em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hdxqage": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h9jmt5b": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 25.194734573364258,
+        "lineHeight": "1.5000000378521279em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hnloj9s": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 19.595905303955078,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h96n5s": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 19.598400115966797,
+        "lineHeight": "3.4285712617343145em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hqc3odf": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16.798627853393555,
+        "lineHeight": "1.6000000681251583em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h9uicqo": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 13.998856544494629,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h3njmbh": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 25.194734573364258,
+        "lineHeight": "1.5000000378521279em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hgbys68": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hic07eh": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 33.59297180175781,
+        "lineHeight": "1.2999999091548724em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "BOTTOM"
+      },
+      "type": "typography"
+    },
+    "text-hb8q1fx": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 19.595905303955078,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hjydb1d": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.798627853393555,
+        "lineHeight": "1.6000000681251583em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hv06cgn": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 44.7906379699707,
+        "lineHeight": "1.299999991483271em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hxg5eea": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hbkd2zk": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h48kjz6": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 19.598400115966797,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hplpj7e": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 22.39531898498535,
+        "lineHeight": "1.500000042583645em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hyhdmxl": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16.796485900878906,
+        "lineHeight": "1.6000000454225638em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h92sild": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 13.997074127197266,
+        "lineHeight": "1.6000000272535333em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hvcfqoc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h65vtck": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 20,
+        "lineHeight": "1.3em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-heudix6": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "lineHeight": "1.3500000635782878em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hp8j2w5": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 38,
+        "lineHeight": "1.3499999799226459em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-higzhgs": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 64,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hpztwrc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 32,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "RIGHT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h9d6hvl": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 96,
+        "lineHeight": "1em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h25vs78": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 96,
+        "lineHeight": "1em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hs7pp0t": {
+      "value": {
+        "fontFamily": "Poppins",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeight": "1.5em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h2p3kb8": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 64,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hg2hxcf": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 64,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hqo5spv": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 48,
+        "lineHeight": "1.1000000635782878em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-huuchpc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 48,
+        "lineHeight": "1.1000000635782878em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h2egq9n": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hi0qnga": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hx53geb": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hsj6fts": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 24,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hy6s7ft": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeight": "1.3em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h2dq3qk": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 20,
+        "lineHeight": "1.3em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h9qfvc4": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h4309zv": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hlktf2x": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h4662zm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeight": "1.6000000635782878em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h5svisu": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 10,
+        "lineHeight": "1.6em",
+        "letterSpacing": "4%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h7fq6ni": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 48,
+        "lineHeight": "1.1000000635782878em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hxs8lfc": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 32,
+        "lineHeight": "1.2999999523162842em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hfzjbg2": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hbsac22": {
+      "value": {
+        "fontFamily": "Poppins",
+        "fontWeight": 600,
+        "fontSize": 40,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hm0mp67": {
+      "value": {
+        "fontFamily": "Poppins",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeight": "1.399999976158142em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-hhrm4jm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeight": "1.3500000635782878em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hrhl0a7": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 64,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hj3wa9x": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 22.628570556640625,
+        "lineHeight": "1.60000010114728em",
+        "letterSpacing": "2%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h5oc1js": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.1em",
+        "letterSpacing": "-4%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hcw3eap": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 64,
+        "lineHeight": "1.100000023841858em",
+        "letterSpacing": "-6%",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-had3vdi": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 9,
+        "lineHeight": "1.3500000635782878em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hal3377": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 40,
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hms3hsm": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-h34ulju": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 14,
+        "lineHeight": "1.320000103541783em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hfphie2": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 24,
+        "lineHeight": "1.3200000127156575em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hi66h83": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hc3avlb": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textCase": "UPPER",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hi72p9u": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 12,
+        "lineHeight": "1.5em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hs0ey25": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeight": "1.4000000272478377em",
+        "letterSpacing": "-3%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "type": "typography"
+    },
+    "text-h9j2xds": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 700,
+        "fontSize": 24,
+        "lineHeight": "1.3200000127156575em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    },
+    "text-hr12ecp": {
+      "value": {
+        "fontFamily": "Satoshi",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeight": "1.320000103541783em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "CENTER"
+      },
+      "type": "typography"
+    }
+  },
+  "effects": {
+    "effect-hnpaur6": {
+      "value": "0px 18.630001068115234px 91.08000946044922px -4.140000343322754px rgba(38, 47, 74, 0.14), 0px 8.280000686645508px 28.98000144958496px -6.210000514984131px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hx4urf9": {
+      "value": "blur(16px)",
+      "type": "effect"
+    },
+    "effect-hguylh0": {
+      "value": "0px 11.199085235595703px 33.59725570678711px -5.599542617797852px rgba(38, 47, 74, 0.08), 0px 8.399313926696777px 16.798627853393555px -8.399313926696777px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hlxxpj1": {
+      "value": "0px 8px 24px -4px rgba(38, 47, 74, 0.08), 0px 6px 12px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hql2695": {
+      "value": "blur(22.398170471191406px)",
+      "type": "effect"
+    },
+    "effect-hz0aiq1": {
+      "value": "0px 8px 16px -6px rgba(38, 47, 74, 0.08), 0px 6px 8px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hmywbfe": {
+      "value": "0px 4px 12px 0px rgba(0, 0, 0, 0.14)",
+      "type": "effect"
+    },
+    "effect-hvg7od5": {
+      "value": "0px 3px 9px 0px rgba(0, 0, 0, 0.14)",
+      "type": "effect"
+    },
+    "effect-hwewshe": {
+      "value": "0px 4px 4px -2px rgba(38, 47, 74, 0.08), 0px 2px 4px -2px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hbma5ta": {
+      "value": "0px 8px 8px -4px rgba(38, 47, 74, 0.08), 0px 4px 6px -4px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hfcnur9": {
+      "value": "0px 10px 32px -4px rgba(24, 38, 47, 0.1), 0px 6px 14px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hxik5jz": {
+      "value": "0px 12px 42px -4px rgba(38, 47, 74, 0.12), 0px 8px 18px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hthu1bq": {
+      "value": "0px 14px 64px -4px rgba(38, 47, 74, 0.12), 0px 8px 22px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    },
+    "effect-hs0vars": {
+      "value": "0px 18px 88px -4px rgba(38, 47, 74, 0.14), 0px 8px 28px -6px rgba(38, 47, 74, 0.12)",
+      "type": "effect"
+    }
+  },
+  "spacing": {
+    "layout-h2dcbed": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hx1x1tf": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-hk8v9bl": {
+      "value": "64px",
+      "type": "spacing"
+    },
+    "layout-hxs1m13": {
+      "value": "11.385001182556152px",
+      "type": "spacing"
+    },
+    "layout-ha5b8xf": {
+      "value": "4.140000343322754px",
+      "type": "spacing"
+    },
+    "layout-hk30gw7": {
+      "value": "8.280000686645508px",
+      "type": "spacing"
+    },
+    "layout-h5kp7ra": {
+      "value": "8.280000686645508px",
+      "type": "spacing"
+    },
+    "layout-hkefxpo": {
+      "value": "4.140000343322754px",
+      "type": "spacing"
+    },
+    "layout-h7czjgw": {
+      "value": "12.420001029968262px",
+      "type": "spacing"
+    },
+    "layout-hap59q8": {
+      "value": "5.175000190734863px",
+      "type": "spacing"
+    },
+    "layout-hmcs8bg": {
+      "value": "8.280000686645508px",
+      "type": "spacing"
+    },
+    "layout-h7ynelv": {
+      "value": "8.280000686645508px",
+      "type": "spacing"
+    },
+    "layout-hlnv8l9": {
+      "value": "10.34999942779541px",
+      "type": "spacing"
+    },
+    "layout-hqali0w": {
+      "value": "4.140000343322754px",
+      "type": "spacing"
+    },
+    "layout-h4nh69t": {
+      "value": "10.350000381469727px",
+      "type": "spacing"
+    },
+    "layout-he343yf": {
+      "value": "8.280000686645508px",
+      "type": "spacing"
+    },
+    "layout-hokzbo1": {
+      "value": "4.140000343322754px",
+      "type": "spacing"
+    },
+    "layout-h3sh2ne": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-hswzinl": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hmlrm2p": {
+      "value": "7.878787517547607px",
+      "type": "spacing"
+    },
+    "layout-heh2k72": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hllm5ko": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-h4k3fcy": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hghzolm": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h86ims6": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hcxf61t": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-hm3170n": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hyt24qa": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-h7c2spl": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hkr6tk8": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-huxkbkm": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-h5ua396": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hi08mlf": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "layout-hqdtruc": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-h4rpg5q": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hnjhy5a": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-h9er9hd": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hh9s8ej": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h2n0m5a": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "layout-h5zuolz": {
+      "value": "2px",
+      "type": "spacing"
+    },
+    "layout-h44gv9r": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-hswdsfu": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-h6oxnnp": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-hsxhed9": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hfndn7x": {
+      "value": "62px",
+      "type": "spacing"
+    },
+    "layout-hama5v5": {
+      "value": "62px",
+      "type": "spacing"
+    },
+    "layout-h499owa": {
+      "value": "62px",
+      "type": "spacing"
+    },
+    "layout-hslq5r3": {
+      "value": "62px",
+      "type": "spacing"
+    },
+    "layout-h81berm": {
+      "value": "62px",
+      "type": "spacing"
+    },
+    "layout-hsuxr7f": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hm4v7a3": {
+      "value": "44px",
+      "type": "spacing"
+    },
+    "layout-h5kalf1": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-h7vlgel": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-h4dn4y0": {
+      "value": "-4px",
+      "type": "spacing"
+    },
+    "layout-hknn2rd": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-hlsie1q": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-hlw0npd": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-hi8x4vi": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-htujrr3": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hut447f": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "layout-h7p8za": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h87bab": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h84kny": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h85dl1": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-h84p44": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hkup37v": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-hz42jeg": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hixlh8a": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "layout-hvzqd2p": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-hndjsgj": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-hpaual": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-h8jyd97": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-hdqvcb2": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "layout-ho92zbe": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-hsit33": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-hdt839t": {
+      "value": "16.798627853393555px",
+      "type": "spacing"
+    },
+    "layout-hj51dow": {
+      "value": "2.799771308898926px",
+      "type": "spacing"
+    },
+    "layout-hhyosbr": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-ho5dr7o": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-h963zle": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-hynsztp": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-hoa2euh": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hb4bpf5": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hpd7khy": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-hr95zkg": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-hk4hhui": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-hqv6j0j": {
+      "value": "55.98829650878906px",
+      "type": "spacing"
+    },
+    "layout-hh45nbd": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hy8exl1": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-h3odptp": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-h96ufz6": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-h8kdfyz": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hrbr74n": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hsxxn88": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hb54vvd": {
+      "value": "5.598829746246338px",
+      "type": "spacing"
+    },
+    "layout-huk5tif": {
+      "value": "13.998856544494629px",
+      "type": "spacing"
+    },
+    "layout-hg4cx1i": {
+      "value": "33.59297180175781px",
+      "type": "spacing"
+    },
+    "layout-h3xp9pp": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hfzchee": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hq196co": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hljh83j": {
+      "value": "55.98829650878906px",
+      "type": "spacing"
+    },
+    "layout-h3o39hv": {
+      "value": "13.998856544494629px",
+      "type": "spacing"
+    },
+    "layout-h1gouxj": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-hmyhzrl": {
+      "value": "86.79290771484375px",
+      "type": "spacing"
+    },
+    "layout-hbnauka": {
+      "value": "11.199085235595703px",
+      "type": "spacing"
+    },
+    "layout-h6rmucn": {
+      "value": "11.199085235595703px",
+      "type": "spacing"
+    },
+    "layout-hezheir": {
+      "value": "-5.598829746246338px",
+      "type": "spacing"
+    },
+    "layout-hl5liq3": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hzaygs0": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-h16u1en": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-h18jlho": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-h5gonml": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hg50ssi": {
+      "value": "22.39531898498535px",
+      "type": "spacing"
+    },
+    "layout-h1a3rdz": {
+      "value": "11.199085235595703px",
+      "type": "spacing"
+    },
+    "layout-htps0qq": {
+      "value": "8.399313926696777px",
+      "type": "spacing"
+    },
+    "layout-hazi782": {
+      "value": "55.98829650878906px",
+      "type": "spacing"
+    },
+    "layout-hr9kl1e": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hz0jn4g": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hpr7vgi": {
+      "value": "13.997074127197266px",
+      "type": "spacing"
+    },
+    "layout-hoz83y1": {
+      "value": "55.98829650878906px",
+      "type": "spacing"
+    },
+    "layout-hon7soe": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hpxo326": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hwkyw3c": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hz2xroe": {
+      "value": "5.598829746246338px",
+      "type": "spacing"
+    },
+    "layout-he93x8": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hobws66": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hgddrb7": {
+      "value": "27.99414825439453px",
+      "type": "spacing"
+    },
+    "layout-hns6vcc": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hl4i7jx": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-ht6pbs": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hesvoui": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hu4cxzs": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hgh4y0r": {
+      "value": "5.599542617797852px",
+      "type": "spacing"
+    },
+    "layout-hmelf2x": {
+      "value": "55.98829650878906px",
+      "type": "spacing"
+    },
+    "layout-h343o0r": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hi1dlrc": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-hx8jmm": {
+      "value": "5.598829746246338px",
+      "type": "spacing"
+    },
+    "layout-h99d16i": {
+      "value": "11.197659492492676px",
+      "type": "spacing"
+    },
+    "layout-hxc04y2": {
+      "value": "13.997074127197266px",
+      "type": "spacing"
+    },
+    "layout-hrl520t": {
+      "value": "13.997074127197266px",
+      "type": "spacing"
+    },
+    "layout-hx3dkyb": {
+      "value": "44.7906379699707px",
+      "type": "spacing"
+    },
+    "layout-h90litf": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hrga205": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hntt80e": {
+      "value": "5.598829746246338px",
+      "type": "spacing"
+    },
+    "layout-hp9d9ij": {
+      "value": "13.998856544494629px",
+      "type": "spacing"
+    },
+    "layout-hp8ph9b": {
+      "value": "44.79634094238281px",
+      "type": "spacing"
+    },
+    "layout-hf4zbtw": {
+      "value": "13.998856544494629px",
+      "type": "spacing"
+    },
+    "layout-hesg9r6": {
+      "value": "11.029401779174805px",
+      "type": "spacing"
+    },
+    "layout-h2olzex": {
+      "value": "11.199085235595703px",
+      "type": "spacing"
+    },
+    "layout-hxut9zz": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hlcpuut": {
+      "value": "120px",
+      "type": "spacing"
+    },
+    "layout-hrban8q": {
+      "value": "80px",
+      "type": "spacing"
+    },
+    "layout-hsiskyx": {
+      "value": "120px",
+      "type": "spacing"
+    },
+    "layout-h5xm0rm": {
+      "value": "23px",
+      "type": "spacing"
+    },
+    "layout-hh630yp": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-h50xk8g": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "layout-hd0pcg7": {
+      "value": "90px",
+      "type": "spacing"
+    },
+    "layout-h1yep0f": {
+      "value": "16.88888931274414px",
+      "type": "spacing"
+    },
+    "layout-hwmusni": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "layout-hirwf28": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hc2flo5": {
+      "value": "42px",
+      "type": "spacing"
+    },
+    "layout-hhibiau": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hc9d6a5": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "layout-hf17yir": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-h9zay3k": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-hbnlhnh": {
+      "value": "7.542856693267822px",
+      "type": "spacing"
+    },
+    "layout-hg1qhcy": {
+      "value": "7.5428571701049805px",
+      "type": "spacing"
+    },
+    "layout-hef6i8v": {
+      "value": "7.5428571701049805px",
+      "type": "spacing"
+    },
+    "layout-hcx7c0l": {
+      "value": "7.5428571701049805px",
+      "type": "spacing"
+    },
+    "layout-hddyytg": {
+      "value": "7.542856693267822px",
+      "type": "spacing"
+    },
+    "layout-hptl5xl": {
+      "value": "22px",
+      "type": "spacing"
+    },
+    "layout-hbvzsl6": {
+      "value": "7.542856693267822px",
+      "type": "spacing"
+    },
+    "layout-hxq56n6": {
+      "value": "7.5428571701049805px",
+      "type": "spacing"
+    },
+    "layout-hpakgp8": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "layout-h2hjt6u": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "layout-htc06xp": {
+      "value": "7.542856693267822px",
+      "type": "spacing"
+    },
+    "layout-hpuoyk": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-hjz7jla": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "layout-h7utd6c": {
+      "value": "16px",
+      "type": "spacing"
+    }
+  }
+}

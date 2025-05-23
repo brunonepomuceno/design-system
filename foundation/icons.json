@@ -1,0 +1,91 @@
+{
+  "icons": {
+    "semantic": {
+      "action": {
+        "$icon-add": "imageRef",
+        "$icon-edit": "imageRef",
+        "$icon-delete": "imageRef",
+        "$icon-save": "imageRef",
+        "$icon-cancel": "imageRef",
+        "$icon-download": "imageRef",
+        "$icon-upload": "imageRef",
+        "$icon-print": "imageRef",
+        "$icon-send": "imageRef",
+        "$icon-share": "imageRef"
+      },
+      "navigation": {
+        "$icon-arrow-up": "imageRef",
+        "$icon-arrow-down": "imageRef",
+        "$icon-arrow-left": "imageRef",
+        "$icon-arrow-right": "imageRef",
+        "$icon-chevron-up": "imageRef",
+        "$icon-chevron-down": "imageRef",
+        "$icon-chevron-left": "imageRef",
+        "$icon-chevron-right": "imageRef",
+        "$icon-menu": "imageRef",
+        "$icon-home": "imageRef",
+        "$icon-search": "imageRef"
+      },
+      "status": {
+        "$icon-success": "imageRef",
+        "$icon-error": "imageRef",
+        "$icon-warning": "imageRef",
+        "$icon-info": "imageRef",
+        "$icon-help": "imageRef",
+        "$icon-check": "imageRef",
+        "$icon-close": "imageRef"
+      },
+      "file": {
+        "$icon-file": "imageRef",
+        "$icon-file-pdf": "imageRef",
+        "$icon-file-doc": "imageRef",
+        "$icon-file-image": "imageRef",
+        "$icon-file-audio": "imageRef",
+        "$icon-file-video": "imageRef",
+        "$icon-folder": "imageRef"
+      },
+      "social": {
+        "$icon-facebook": "imageRef",
+        "$icon-twitter": "imageRef",
+        "$icon-instagram": "imageRef",
+        "$icon-linkedin": "imageRef",
+        "$icon-youtube": "imageRef",
+        "$icon-whatsapp": "imageRef"
+      },
+      "ui": {
+        "$icon-user": "imageRef",
+        "$icon-settings": "imageRef",
+        "$icon-bell": "imageRef",
+        "$icon-star": "imageRef",
+        "$icon-heart": "imageRef",
+        "$icon-cart": "imageRef",
+        "$icon-filter": "imageRef",
+        "$icon-sort": "imageRef",
+        "$icon-grid": "imageRef",
+        "$icon-list": "imageRef"
+      },
+      "size": {
+        "$icon-size-xs": "16px",
+        "$icon-size-sm": "20px",
+        "$icon-size-md": "24px",
+        "$icon-size-lg": "32px",
+        "$icon-size-xl": "40px",
+        "$icon-size-xxl": "48px"
+      }
+    },
+    "mapping": {
+      "fill-hgcx9l": "$icon-user",
+      "fill-hu7pl5": "$icon-search",
+      "fill-hx75z0u": "$icon-arrow-right",
+      "fill-hm1pgj3": "$icon-chevron-down",
+      "fill-hhdemzc": "$icon-check",
+      "fill-hj71jc2": "$icon-close",
+      "fill-h6qeriv": "$icon-error",
+      "fill-h5sja8o": "$icon-warning",
+      "fill-h1nahdx": "$icon-info",
+      "fill-hq9lal": "$icon-help",
+      "fill-ho0gtgv": "$icon-success",
+      "fill-h50r7s": "$icon-check"
+    }
+  }
+}

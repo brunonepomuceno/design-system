@@ -1,0 +1,166 @@
+{
+  "typography": {
+    "semantic": {
+      "display": {
+        "$font-display-4xl": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "48px",
+          "lineHeight": 1.1,
+          "letterSpacing": "-0.02em"
+        },
+        "$font-display-3xl": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "40px",
+          "lineHeight": 1.1,
+          "letterSpacing": "-0.02em"
+        },
+        "$font-display-2xl": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "32px",
+          "lineHeight": 1.2,
+          "letterSpacing": "-0.02em"
+        },
+        "$font-display-xl": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "24px",
+          "lineHeight": 1.2,
+          "letterSpacing": "-0.01em"
+        },
+        "$font-display-lg": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "22px",
+          "lineHeight": 1.4,
+          "letterSpacing": "-0.01em"
+        }
+      },
+      "heading": {
+        "$font-heading-xl": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "20px",
+          "lineHeight": 1.4,
+          "letterSpacing": "-0.01em"
+        },
+        "$font-heading-lg": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "18px",
+          "lineHeight": 1.4,
+          "letterSpacing": "-0.01em"
+        },
+        "$font-heading-md": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "16px",
+          "lineHeight": 1.5,
+          "letterSpacing": "-0.01em"
+        },
+        "$font-heading-sm": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "14px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0em"
+        },
+        "$font-heading-xs": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "12px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.01em"
+        }
+      },
+      "body": {
+        "$font-body-lg": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 400,
+          "fontSize": "16px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0em"
+        },
+        "$font-body-md": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 400,
+          "fontSize": "14px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0em"
+        },
+        "$font-body-sm": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 400,
+          "fontSize": "12px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.01em"
+        }
+      },
+      "label": {
+        "$font-label-lg": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 500,
+          "fontSize": "14px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.01em",
+          "textTransform": "uppercase"
+        },
+        "$font-label-md": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 500,
+          "fontSize": "12px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.03em",
+          "textTransform": "uppercase"
+        },
+        "$font-label-sm": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 500,
+          "fontSize": "10px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.05em",
+          "textTransform": "uppercase"
+        }
+      },
+      "button": {
+        "$font-button-lg": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "16px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.01em"
+        },
+        "$font-button-md": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "14px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.01em"
+        },
+        "$font-button-sm": {
+          "fontFamily": "Satoshi",
+          "fontWeight": 700,
+          "fontSize": "12px",
+          "lineHeight": 1.5,
+          "letterSpacing": "0.03em"
+        }
+      }
+    },
+    "mapping": {
+      "text-htny7mg": "$font-display-3xl",
+      "text-hy427ta": "$font-button-sm",
+      "text-hrfs05t": "$font-heading-xl",
+      "text-h57yzer": "$font-display-3xl",
+      "text-heqpfoy": "$font-label-md",
+      "text-hon5svx": "$font-display-2xl",
+      "text-h545lie": "$font-heading-md",
+      "text-hdxqage": "$font-heading-md",
+      "text-hplpj7e": "$font-display-lg",
+      "text-huuchpc": "$font-display-4xl",
+      "text-hm0mp67": "$font-body-lg",
+      "text-h9j2xds": "$font-display-xl"
+    }
+  }
+}

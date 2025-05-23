@@ -1,0 +1,63 @@
+{
+  "opacity": {
+    "semantic": {
+      "level": {
+        "$opacity-0": "0",
+        "$opacity-5": "0.05",
+        "$opacity-10": "0.1",
+        "$opacity-20": "0.2",
+        "$opacity-30": "0.3",
+        "$opacity-40": "0.4",
+        "$opacity-50": "0.5",
+        "$opacity-60": "0.6",
+        "$opacity-70": "0.7",
+        "$opacity-80": "0.8",
+        "$opacity-90": "0.9",
+        "$opacity-100": "1"
+      },
+      "state": {
+        "$opacity-disabled": "0.5",
+        "$opacity-hover": "0.9",
+        "$opacity-focus": "0.8",
+        "$opacity-press": "0.7",
+        "$opacity-drag": "0.6"
+      },
+      "overlay": {
+        "$opacity-overlay-light": "0.3",
+        "$opacity-overlay-medium": "0.5",
+        "opacity-overlay-dark": "0.7"
+      },
+      "text": {
+        "$opacity-text-primary": "0.95",
+        "$opacity-text-secondary": "0.7",
+        "$opacity-text-tertiary": "0.5",
+        "$opacity-text-quaternary": "0.3",
+        "$opacity-text-disabled": "0.3"
+      },
+      "border": {
+        "$opacity-border-light": "0.2",
+        "$opacity-border-medium": "0.3",
+        "$opacity-border-strong": "0.4"
+      },
+      "background": {
+        "$opacity-background-light": "0.1",
+        "$opacity-background-medium": "0.2",
+        "$opacity-background-strong": "0.3"
+      }
+    },
+    "mapping": {
+      "opacity-0": "$opacity-0",
+      "opacity-5": "$opacity-5",
+      "opacity-10": "$opacity-10",
+      "opacity-20": "$opacity-20",
+      "opacity-30": "$opacity-30",
+      "opacity-40": "$opacity-40",
+      "opacity-50": "$opacity-50",
+      "opacity-60": "$opacity-60",
+      "opacity-70": "$opacity-70",
+      "opacity-80": "$opacity-80",
+      "opacity-90": "$opacity-90",
+      "opacity-100": "$opacity-100"
+    }
+  }
+}
