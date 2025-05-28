@@ -12,14 +12,17 @@
   "scripts": {
     "build": "rollup -c",
     "prepare": "npm run build",
+    "extract": "export $(cat ~/.figma-token | xargs) && node scripts/extractIcons.js",
+    "preview": "npm run generate:preview && open preview/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node scripts/generate.js",
-    "generate:icons": "node scripts/extractIcons.js",
+    
+    "generate": "npm run generate:icons && npm run generate:components && npm run generate:css && npm run generate:docs",
+    "generate:icons": "export $(cat ~/.figma-token | xargs) && node scripts/extractIcons.js",
     "generate:components": "node scripts/generateReactComponents.js",
     "generate:css": "node scripts/generateCSS.js",
     "generate:docs": "node scripts/generateDocumentation.js",
     "generate:preview": "ts-node scripts/generatePreview.tsx",
-    "preview": "npm run generate:preview && open preview/index.html",
+    
     "clean": "rimraf dist preview assets/icons/*.json assets/icons/*.md ICON_DOCS.md",
     "prepublishOnly": "npm run build",
     "postinstall": "npm run generate"

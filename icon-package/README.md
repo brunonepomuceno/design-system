@@ -49,6 +49,39 @@ function App() {
 | className | string                  | ''           | Additional CSS class                 |
 | ...props  | SVGProps<SVGSVGElement> | -             | All standard SVG element properties  |
 
+## Development
+
+### Setting up the Figma Token
+
+1. Create a `.figma-token` file in your home directory:
+   ```bash
+   echo 'FIGMA_ACCESS_TOKEN=your_token_here' > ~/.figma-token
+   ```
+
+2. Replace `your_token_here` with your actual Figma Personal Access Token.
+
+### Extracting Icons
+
+To extract icons from Figma:
+
+```bash
+# Install dependencies
+npm install
+
+# Extract icons from Figma
+npm run generate:icons
+
+# Generate React components
+npm run generate:components
+
+# Generate preview
+npm run preview
+```
+
+### Security
+
+Never commit your Figma token to version control. The `.figma-token` file is meant to be kept private and should not be shared or committed to the repository.
+
 ### CSS Usage
 
 Import the generated CSS in your application:
