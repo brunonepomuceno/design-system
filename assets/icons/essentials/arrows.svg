@@ -1,0 +1,32 @@
+<svg width="264" height="48" viewBox="0 0 264 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrows">
+<g clip-path="url(#clip0_2261_898)">
+<g id="Size=12px, Filled=false">
+<path id="Vector" d="M10.5 27H1.5M9 29.25L11.25 27L9 24.75M1.5 21L10.5 21M3 18.75L0.75 21L3 23.25" stroke="#111111" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=16px, Filled=false">
+<path id="Vector_2" d="M38 28H26M36 31L39 28L36 25M26 20L38 20M28 17L25 20L28 23" stroke="#111111" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=20px, Filled=false">
+<path id="Vector_3" d="M69.5 29H54.5M67 32.75L70.75 29L67 25.25M54.5 19L69.5 19M57 15.25L53.25 19L57 22.75" stroke="#111111" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=24px, Filled=false">
+<path id="Vector_4" d="M106 30C106 30 94.8104 30 87 30M106 30L101.999 34M106 30L101.999 26M86 18C86 18 97.1896 18 105 18M86 18L90.0005 14M86 18L90.0005 22" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=32px, Filled=false">
+<path id="Vector_5" d="M149 32H124M144 38L150 32L144 26M122 16L148 16M122 16L128 10M122 16L128 22" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=40px, Filled=false">
+<path id="Vector_6" d="M201 34H169M194 41.5L201.5 34L194 26.5M167 14L199 14M174 6.5L166.5 14L174 21.5" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=48px, Filled=false">
+<path id="Vector_7" d="M260 36H222M252 45L261 36L252 27M219 12L258 12M219 12L228 3M219 12L228 21" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2261_898">
+<rect width="264" height="48" rx="5" fill="white"/>
+</clipPath>
+</defs>
+</svg>

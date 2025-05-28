@@ -1,0 +1,53 @@
+<svg width="264" height="108" viewBox="0 0 264 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chevron down">
+<g clip-path="url(#clip0_2230_901)">
+<g id="Size=12px, Filled=false">
+<path id="Vector" d="M9 22.5L6.14133 25.4397C6.10387 25.4783 6.05302 25.5 6 25.5C5.94698 25.5 5.89613 25.4783 5.85867 25.4397L3 22.5" stroke="#111111" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=16px, Filled=false">
+<path id="Vector_2" d="M36 22L32.1884 25.9196C32.1385 25.9711 32.0707 26 32 26C31.9293 26 31.8615 25.9711 31.8116 25.9196L28 22" stroke="#111111" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=20px, Filled=false">
+<path id="Vector_3" d="M67 21.5L62.2356 26.3995C62.1731 26.4639 62.0884 26.5 62 26.5C61.9116 26.5 61.8269 26.4639 61.7644 26.3995L57 21.5" stroke="#111111" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=24px, Filled=false">
+<path id="Vector_4" d="M102 21L96.2827 26.8795C96.2077 26.9566 96.106 27 96 27C95.894 27 95.7923 26.9566 95.7173 26.8795L90 21" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=32px, Filled=false">
+<path id="Vector_5" d="M144 20L136.377 27.8393C136.277 27.9422 136.141 28 136 28C135.859 28 135.723 27.9422 135.623 27.8393L128 20" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=40px, Filled=false">
+<path id="Vector_6" d="M194 19L184.471 28.7991C184.346 28.9277 184.177 29 184 29C183.823 29 183.654 28.9277 183.529 28.7991L174 19" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=48px, Filled=false">
+<path id="Vector_7" d="M252 18L240.565 29.7589C240.415 29.9132 240.212 30 240 30C239.788 30 239.585 29.9132 239.435 29.7589L228 18" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=12px, Filled=true">
+<path id="Vector_8" d="M3.41421 82C2.52331 82 2.07714 83.0771 2.70711 83.7071L5.29289 86.2929C5.68342 86.6834 6.31658 86.6834 6.70711 86.2929L9.2929 83.7071C9.92286 83.0771 9.47669 82 8.58579 82H3.41421Z" fill="#111111"/>
+</g>
+<g id="Size=16px, Filled=true">
+<path id="Vector_9" d="M27.7475 81.3333C26.8566 81.3333 26.4104 82.4105 27.0404 83.0404L31.2928 87.2929C31.6833 87.6834 32.3165 87.6834 32.707 87.2929L36.9595 83.0404C37.5894 82.4105 37.1433 81.3333 36.2524 81.3333H27.7475Z" fill="#111111"/>
+</g>
+<g id="Size=20px, Filled=true">
+<path id="Vector_10" d="M56.081 80.6667C55.1901 80.6667 54.7439 81.7438 55.3739 82.3738L61.293 88.2929C61.6835 88.6834 62.3167 88.6834 62.7072 88.2929L68.6263 82.3738C69.2563 81.7438 68.8101 80.6667 67.9192 80.6667H56.081Z" fill="#111111"/>
+</g>
+<g id="Size=24px, Filled=true">
+<path id="Vector_11" d="M88.4142 80C87.5233 80 87.0771 81.0771 87.7071 81.7071L95.2929 89.2929C95.6834 89.6834 96.3166 89.6834 96.7071 89.2929L104.293 81.7071C104.923 81.0771 104.477 80 103.586 80H88.4142Z" fill="#111111"/>
+</g>
+<g id="Size=32px, Filled=true">
+<path id="Vector_12" d="M125.081 78.6667C124.19 78.6667 123.744 79.7438 124.374 80.3738L135.293 91.2929C135.683 91.6834 136.317 91.6834 136.707 91.2929L147.626 80.3738C148.256 79.7438 147.81 78.6667 146.919 78.6667H125.081Z" fill="#111111"/>
+</g>
+<g id="Size=40px, Filled=true">
+<path id="Vector_13" d="M169.747 77.3333C168.857 77.3333 168.41 78.4105 169.04 79.0404L183.293 93.2929C183.683 93.6834 184.317 93.6834 184.707 93.2929L198.959 79.0404C199.589 78.4105 199.143 77.3333 198.252 77.3333H169.747Z" fill="#111111"/>
+</g>
+<g id="Size=48px, Filled=true">
+<path id="Vector_14" d="M222.414 76C221.523 76 221.077 77.0771 221.707 77.7071L239.293 95.2929C239.683 95.6834 240.317 95.6834 240.707 95.2929L258.293 77.7071C258.923 77.0771 258.477 76 257.586 76H222.414Z" fill="#111111"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2230_901">
+<rect width="264" height="108" rx="5" fill="white"/>
+</clipPath>
+</defs>
+</svg>

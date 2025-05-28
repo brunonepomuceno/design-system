@@ -1,0 +1,32 @@
+<svg width="264" height="48" viewBox="0 0 264 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Minus">
+<g clip-path="url(#clip0_8692_5)">
+<g id="Size=12px, Filled=false">
+<path id="Vector" d="M1.5 24H10.5" stroke="#111111" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=16px, Filled=false">
+<path id="Vector_2" d="M26 24H38" stroke="#111111" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=20px, Filled=false">
+<path id="Vector_3" d="M54.5 24H69.5" stroke="#111111" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=24px, Filled=false">
+<path id="Vector_4" d="M87 24H105" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=32px, Filled=false">
+<path id="Vector_5" d="M124 24H148" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=40px, Filled=false">
+<path id="Vector_6" d="M169 24H199" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Size=48px, Filled=false">
+<path id="Vector_7" d="M222 24H258" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_8692_5">
+<rect width="264" height="48" rx="5" fill="white"/>
+</clipPath>
+</defs>
+</svg>

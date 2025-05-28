@@ -1,0 +1,287 @@
+{
+  "generatedAt": "2025-05-28T20:49:04.815Z",
+  "totalIcons": 39,
+  "categories": {
+    "essentials": 0,
+    "actions": 5,
+    "vehicles-transport": 5,
+    "technology": 4,
+    "social": 9,
+    "finance": 16
+  },
+  "icons": [
+    {
+      "name": "add",
+      "category": "actions",
+      "path": "actions/add.svg",
+      "status": "downloaded",
+      "nodeId": "1107:691"
+    },
+    {
+      "name": "attach",
+      "category": "actions",
+      "path": "actions/attach.svg",
+      "status": "downloaded",
+      "nodeId": "1110:1315"
+    },
+    {
+      "name": "close",
+      "category": "actions",
+      "path": "actions/close.svg",
+      "status": "downloaded",
+      "nodeId": "1107:692"
+    },
+    {
+      "name": "download",
+      "category": "actions",
+      "path": "actions/download.svg",
+      "status": "downloaded",
+      "nodeId": "3477:534"
+    },
+    {
+      "name": "upload",
+      "category": "actions",
+      "path": "actions/upload.svg",
+      "status": "downloaded",
+      "nodeId": "3477:535"
+    },
+    {
+      "name": "bank",
+      "category": "finance",
+      "path": "finance/bank.svg",
+      "status": "exists",
+      "nodeId": "9508:4"
+    },
+    {
+      "name": "barcode",
+      "category": "finance",
+      "path": "finance/barcode.svg",
+      "status": "exists",
+      "nodeId": "4744:434"
+    },
+    {
+      "name": "billing",
+      "category": "finance",
+      "path": "finance/billing.svg",
+      "status": "exists",
+      "nodeId": "1998:443"
+    },
+    {
+      "name": "calculator",
+      "category": "finance",
+      "path": "finance/calculator.svg",
+      "status": "exists",
+      "nodeId": "3127:482"
+    },
+    {
+      "name": "cash-machine",
+      "category": "finance",
+      "path": "finance/cash-machine.svg",
+      "status": "exists",
+      "nodeId": "7887:209"
+    },
+    {
+      "name": "credit-card",
+      "category": "finance",
+      "path": "finance/credit-card.svg",
+      "status": "exists",
+      "nodeId": "9412:390"
+    },
+    {
+      "name": "extract",
+      "category": "finance",
+      "path": "finance/extract.svg",
+      "status": "exists",
+      "nodeId": "2091:227"
+    },
+    {
+      "name": "key-shining",
+      "category": "finance",
+      "path": "finance/key-shining.svg",
+      "status": "exists",
+      "nodeId": "2091:218"
+    },
+    {
+      "name": "money",
+      "category": "finance",
+      "path": "finance/money.svg",
+      "status": "exists",
+      "nodeId": "3442:409"
+    },
+    {
+      "name": "money-exchange",
+      "category": "finance",
+      "path": "finance/money-exchange.svg",
+      "status": "exists",
+      "nodeId": "6219:965"
+    },
+    {
+      "name": "payment",
+      "category": "finance",
+      "path": "finance/payment.svg",
+      "status": "exists",
+      "nodeId": "3108:2488"
+    },
+    {
+      "name": "percentage",
+      "category": "finance",
+      "path": "finance/percentage.svg",
+      "status": "exists",
+      "nodeId": "5111:1021"
+    },
+    {
+      "name": "pix",
+      "category": "finance",
+      "path": "finance/pix.svg",
+      "status": "exists",
+      "nodeId": "2091:226"
+    },
+    {
+      "name": "receive-money",
+      "category": "finance",
+      "path": "finance/receive-money.svg",
+      "status": "exists",
+      "nodeId": "3549:448"
+    },
+    {
+      "name": "send-money",
+      "category": "finance",
+      "path": "finance/send-money.svg",
+      "status": "exists",
+      "nodeId": "3549:452"
+    },
+    {
+      "name": "wallet",
+      "category": "finance",
+      "path": "finance/wallet.svg",
+      "status": "exists",
+      "nodeId": "9406:2"
+    },
+    {
+      "name": "comment",
+      "category": "social",
+      "path": "social/comment.svg",
+      "status": "exists",
+      "nodeId": "4197:540"
+    },
+    {
+      "name": "facebook",
+      "category": "social",
+      "path": "social/facebook.svg",
+      "status": "exists",
+      "nodeId": "2180:416"
+    },
+    {
+      "name": "instagram",
+      "category": "social",
+      "path": "social/instagram.svg",
+      "status": "exists",
+      "nodeId": "4586:477"
+    },
+    {
+      "name": "linkedin",
+      "category": "social",
+      "path": "social/linkedin.svg",
+      "status": "exists",
+      "nodeId": "4586:439"
+    },
+    {
+      "name": "text-message",
+      "category": "social",
+      "path": "social/text-message.svg",
+      "status": "exists",
+      "nodeId": "2046:342"
+    },
+    {
+      "name": "twitter",
+      "category": "social",
+      "path": "social/twitter.svg",
+      "status": "exists",
+      "nodeId": "2180:418"
+    },
+    {
+      "name": "verified",
+      "category": "social",
+      "path": "social/verified.svg",
+      "status": "exists",
+      "nodeId": "1998:400"
+    },
+    {
+      "name": "whatsapp",
+      "category": "social",
+      "path": "social/whatsapp.svg",
+      "status": "exists",
+      "nodeId": "1998:370"
+    },
+    {
+      "name": "youtube",
+      "category": "social",
+      "path": "social/youtube.svg",
+      "status": "exists",
+      "nodeId": "2180:419"
+    },
+    {
+      "name": "data-analysis",
+      "category": "technology",
+      "path": "technology/data-analysis.svg",
+      "status": "exists",
+      "nodeId": "2170:499"
+    },
+    {
+      "name": "database",
+      "category": "technology",
+      "path": "technology/database.svg",
+      "status": "exists",
+      "nodeId": "2170:496"
+    },
+    {
+      "name": "lock-code",
+      "category": "technology",
+      "path": "technology/lock-code.svg",
+      "status": "downloaded",
+      "nodeId": "2091:228"
+    },
+    {
+      "name": "wifi",
+      "category": "technology",
+      "path": "technology/wifi.svg",
+      "status": "exists",
+      "nodeId": "7887:210"
+    },
+    {
+      "name": "alert-crash",
+      "category": "vehicles-transport",
+      "path": "vehicles-transport/alert-crash.svg",
+      "status": "exists",
+      "nodeId": "3570:440"
+    },
+    {
+      "name": "box-blocked",
+      "category": "vehicles-transport",
+      "path": "vehicles-transport/box-blocked.svg",
+      "status": "exists",
+      "nodeId": "1126:881"
+    },
+    {
+      "name": "navigation-cursor",
+      "category": "vehicles-transport",
+      "path": "vehicles-transport/navigation-cursor.svg",
+      "status": "exists",
+      "nodeId": "1126:880"
+    },
+    {
+      "name": "speedometer",
+      "category": "vehicles-transport",
+      "path": "vehicles-transport/speedometer.svg",
+      "status": "exists",
+      "nodeId": "2415:962"
+    },
+    {
+      "name": "truck-tow",
+      "category": "vehicles-transport",
+      "path": "vehicles-transport/truck-tow.svg",
+      "status": "exists",
+      "nodeId": "3570:415"
+    }
+  ]
+}
