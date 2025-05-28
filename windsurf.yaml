@@ -1,0 +1,12 @@
+mcp_servers:
+  - name: "Figma MCP Server by Bao To"
+    server: "@tothienbao6a0/figma-mcp-server"
+    config:
+      figma_api_key: "figd_-UyFRvTXdh-C8sIz6rtFV7UlGY1i0oNTUxlOBT"
+      # Outras configurações opcionais podem ser adicionadas aqui
+
+# Configuração para o servidor MCP do Figma
+figma:
+  api_key: "figd_-UyFRvTXdh-C8sIz6rtFV7UlGY1i0oNTUxlOBT"
+  file_key: "pHrUcun54WaijaCoojHoYi"
+  output_dir: "assets/icons"

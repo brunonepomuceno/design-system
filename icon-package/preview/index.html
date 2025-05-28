@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>undefined - Icon Preview</title>
+  <style>
+    :root {
+      --primary: #3f51b5;
+      --text: #333;
+      --border: #e0e0e0;
+      --bg: #f5f5f5;
+      --card-bg: #fff;
+    }
+    * { 
+      box-sizing: border-box; 
+      margin: 0; 
+      padding: 0; 
+    }
+    body { 
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6; 
+      color: var(--text);
+      background: var(--bg);
+      padding: 2rem;
+    }
+    .container { 
+      max-width: 1200px; 
+      margin: 0 auto; 
+    }
+    header { 
+      text-align: center; 
+      margin-bottom: 2rem; 
+    }
+    h1 { 
+      color: var(--primary); 
+      margin-bottom: 0.5rem; 
+    }
+    .search { 
+      max-width: 500px; 
+      margin: 0 auto 2rem; 
+    }
+    input { 
+      width: 100%; 
+      padding: 0.75rem; 
+      border: 2px solid var(--border); 
+      border-radius: 4px; 
+      font-size: 1rem;
+    }
+    .grid { 
+      display: grid; 
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+      gap: 1.5rem; 
+    }
+    .card { 
+      background: var(--card-bg); 
+      border-radius: 8px; 
+      padding: 1.5rem; 
+      text-align: center; 
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .svg { 
+      width: 48px; 
+      height: 48px; 
+      margin: 0 auto 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .name { 
+      font-weight: 500; 
+      word-break: break-word; 
+    }
+    @media (max-width: 768px) {
+      .grid { 
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); 
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>undefined</h1>
+      <p>Icon Library Preview</p>
+    </header>
+    
+    <div class="search">
+      <input type="text" id="search" placeholder="Search icons..." autofocus>
+    </div>
+    
+    <div class="grid" id="icons">
+      
+        <div class="card">
+          <div class="svg">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_9508_167)">
+<path d="M1.40326 4.66678C1.12282 4.66678 1.02829 4.29218 1.27514 4.15912L7.45937 0.82545C7.62065 0.721796 7.80833 0.666687 8.00004 0.666687C8.19176 0.666687 8.37943 0.721796 8.54071 0.82545L14.7249 4.15912C14.9718 4.29218 14.8773 4.66678 14.5968 4.66678H1.40326Z" fill="#111111"/>
+<path d="M0.333374 14.6668C0.333374 14.2986 0.631851 14.0001 1.00004 14.0001H15C15.3682 14.0001 15.6667 14.2986 15.6667 14.6668C15.6667 15.035 15.3682 15.3334 15 15.3334H1.00004C0.631851 15.3334 0.333374 15.035 0.333374 14.6668Z" fill="#111111"/>
+<path d="M13.3334 12.6668V6.66677H11.3334V12.6668H13.3334Z" fill="#111111"/>
+<path d="M9.00004 6.66677V12.6668H7.00004V6.66677H9.00004Z" fill="#111111"/>
+<path d="M4.66671 12.6668V6.66677H2.66671V12.6668H4.66671Z" fill="#111111"/>
+</g>
+<defs>
+<clipPath id="clip0_9508_167">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+          </div>
+          <div class="name">bank</div>
+        </div>
+      
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('search').addEventListener('input', (e) => {
+      const search = e.target.value.toLowerCase();
+      const cards = document.querySelectorAll('.card');
+      
+      cards.forEach(card => {
+        const name = card.querySelector('.name').textContent.toLowerCase();
+        card.style.display = name.includes(search) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
